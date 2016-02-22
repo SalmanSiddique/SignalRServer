@@ -1,0 +1,77 @@
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\SignalRPersistent.dll.config
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\SignalRPersistent.dll
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\SignalRPersistent.pdb
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\Microsoft.Owin.dll
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\Microsoft.Owin.Security.dll
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\Microsoft.Web.Infrastructure.dll
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\Newtonsoft.Json.dll
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\Owin.dll
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\System.Net.Http.Formatting.dll
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\System.Web.Http.dll
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\System.Web.Http.WebHost.dll
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\Microsoft.Owin.xml
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\Microsoft.Owin.Security.xml
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\Newtonsoft.Json.xml
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\System.Net.Http.Formatting.xml
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\System.Web.Http.xml
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\bin\System.Web.Http.WebHost.xml
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\obj\Debug\SignalRPersistent.csprojResolveAssemblyReference.cache
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\obj\Debug\SignalRPersistent.dll
+C:\TFSCodeSignalR\SignalR\SignalRPersistent\SignalRPersistent\obj\Debug\SignalRPersistent.pdb
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\SignalRPersistent.dll.config
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\SignalRPersistent.dll
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\SignalRPersistent.pdb
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.Owin.dll
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.Owin.Security.dll
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.Web.Infrastructure.dll
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Newtonsoft.Json.dll
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Owin.dll
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\System.Net.Http.Formatting.dll
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\System.Web.Http.dll
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\System.Web.Http.WebHost.dll
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.Owin.xml
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.Owin.Security.xml
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Newtonsoft.Json.xml
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\System.Net.Http.Formatting.xml
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\System.Web.Http.xml
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\System.Web.Http.WebHost.xml
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\obj\Debug\SignalRPersistent.csprojResolveAssemblyReference.cache
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\obj\Debug\SignalRPersistent.dll
+D:\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\obj\Debug\SignalRPersistent.pdb
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\SignalRPersistent.dll
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\SignalRPersistent.pdb
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.Owin.dll
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.Owin.Security.dll
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.Web.Infrastructure.dll
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Newtonsoft.Json.dll
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Owin.dll
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\System.Net.Http.Formatting.dll
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\System.Web.Http.dll
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\System.Web.Http.WebHost.dll
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.Owin.xml
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Microsoft.Owin.Security.xml
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\Newtonsoft.Json.xml
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\System.Net.Http.Formatting.xml
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\System.Web.Http.xml
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\bin\System.Web.Http.WebHost.xml
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\obj\Debug\SignalRPersistent.csprojResolveAssemblyReference.cache
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\obj\Debug\SignalRPersistent.dll
+C:\Old Data\MSC\Sem1\Se1\Project\SignalRPersistent\SignalRPersistent\SignalRPersistent\obj\Debug\SignalRPersistent.pdb
